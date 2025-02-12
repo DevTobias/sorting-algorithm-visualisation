@@ -1,8 +1,9 @@
-# Sorting Algorithm Visualisation
+# Sorting Algorithm Visualization
 
-This project is a user friendly visualization tool for various sorting algorithms with many configurations for array generation and so on. <br>
-You can acces it with the following link: https://devtobias.github.io/Sorting-Algorithm-Visualisation/.
+This is a small project about sorting algorithms that I did in school. It animates and visualises sorting algorithms like bubble sort, insertion sort, selection sort and so on. A lot of popular algorithms like quick sort are missing, they were just out of scope at that time.
 
-# Disclaimer
+![Demo](.github/demo.png)
 
-This project is still in development and is not finished.
+# ⚖ License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
